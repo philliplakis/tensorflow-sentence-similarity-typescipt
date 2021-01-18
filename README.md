@@ -30,8 +30,8 @@ It will export the files into the `./build/*`
 Then in your file:
 
 ```JS
-import { cosine } from "./cosine"; // Typescript
-const { cosine } = require("./cosine") // Javascript
+import { compare } from "./build"; // Typescript
+const { compare } = require("./build") // Javascript
 ```
 
 ##### Sources
