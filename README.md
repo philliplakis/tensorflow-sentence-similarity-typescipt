@@ -5,8 +5,8 @@
 Clone the repo locally.
 
 ```
-# git clone https://github.com/philliplakis/tensorflow-sentence-similarity-typescipt.git
-# cd tensorflow-sentence-similarity-typescipt
+# git clone https://github.com/philliplakis/tensorflow-sentence-similarity-typescript.git
+# cd tensorflow-sentence-similarity-typescript
 # yarn
 ```
 
